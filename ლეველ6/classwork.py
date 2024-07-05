@@ -1,0 +1,8 @@
+print("შეიყვანეთ რიცვი 1")
+n1=int(input())
+print("შეიყვანეთ რიცვი 2")
+n2=int(input())
+print(int(n1) + int(n2))
+print(int(n1) / int(n2))
+print(int(n1) * int(n2))
+print(int(n1) - int(n2))
