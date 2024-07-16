@@ -1,6 +1,22 @@
 #2
-#for x in range(21):
+#for x in range(10):
 #    print(x)
+
+#for x in range(10):
+    #print("hello")
+
+#i=1
+#while i <5:
+    #print(i)
+   # i= i + 1
+
+#i=0
+#while i <3:
+    ##print("hello")
+    #i=i+1
+
+
+    
 
 #3
 #num = int(input("please enter your desired number: "))
@@ -10,50 +26,23 @@
 #else:
 #    print("number is odd")
 
-#4
-#for x in range(2,22,2):
-#    print(x)
+# a=int(input("sheiyvanet ricxvi"))
+# if a == 10:
+#     print("tolia")
+# else:
+#     print("10")
 
-#5
+# b=int(input("sheiyvanet ricxvi"))
+# if b>0 and b<10:
+#     print("child")
+# else:
+#     print("aralegaluri")
 
-#sum = 0
-#for x in range(50,101):
-#   sum = sum + x
+a=int(input("samkutxedis gverdi"))
+b=int(input("samkutxedis gverdi"))
+c=int(input("samkutxedis gverdi"))
 
-#print(sum)
-
-
-#6
-
-#for x in range(0,55,5):
-#    print(x)
-
-#user1 = int(input("Enter the first number: "))
-#user2 = int(input("Enter the second number: "))
-
-#7
-#if user1 > user2:
-#    for x in range(user2 , user1):
-#        print(x)
-#elif user1 < user2:
-#    for x in range(user1, user2):
-#        print(x)
-#else:
-#    print("Both numbers are equal, no numbers to display in between.")
-
-#9
-#num = 1
-#for x in range(5,11):
-#    print(x)
-#    num *= x
-#print(num)
-
-#10
-
-#word = input("Enter a word: ") 
-#reversed_word = "" 
-
-#for i in range(len(word) - 1, -1, -1):
-#    reversed_word = reversed_word +  word[i] 
-
-#print(reversed_word)
+if a+b >c and b+c > a and a+c >b:
+    print("sigma")
+else:
+    print("incel")

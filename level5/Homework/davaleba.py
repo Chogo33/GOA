@@ -1,8 +1,8 @@
 #1
-#name = "luka"
-#surnamne = "lomidze"
+#name = "Tornike"
+#surnamne = "Chogovadze"
 #age = 14
-#address = "mukhianis dachebi tergis qucha n4"
+#address = "nadzaladevi"
 #print(f"saxeli : {name} , gvari: {surnamne} , asaki: {age} , misamarti: {address}")
 
 #2
